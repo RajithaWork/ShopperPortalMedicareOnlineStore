@@ -1,0 +1,45 @@
+14:06:27.450 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.24.0
+14:06:27.453 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+14:06:27.713 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:06:27.714 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\ShopperPortalMedicareOnlineStore\browserstack.yml
+14:06:27.773 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:06:28.303 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f525c94c65eb9819d622d1f142644fc3281bf6ad]
+14:06:28.303 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:06:36.362 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:06:38.200 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:06:47.476 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:07:57.148 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/molnpvp3grxewuo4ryuzqjoaegow1v7xtpw7yvc0 to view build report, insights, and many more debugging information all at one place!
+
+14:07:57.148 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:08:05.957 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/1dc5e07ea309e2b339ecc06bcfcd6981cf933969
+14:08:05.958 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:12:00.241 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.24.0
+14:12:00.245 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+14:12:00.510 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:12:00.511 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\ShopperPortalMedicareOnlineStore\browserstack.yml
+14:12:00.573 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:12:01.140 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+14:12:01.140 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:12:08.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:12:10.492 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:12:16.860 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:15:03.078 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/grawm8hefmntciar0io01sexnwwqg7vbhbxo0uzk to view build report, insights, and many more debugging information all at one place!
+
+14:15:03.083 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:15:10.949 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/f5c506979ebc9dd42df453088a263464808e0be2
+14:15:10.950 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:22:22.818 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.24.0
+14:22:22.821 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+14:22:23.076 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+14:22:23.077 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\ShopperPortalMedicareOnlineStore\browserstack.yml
+14:22:23.148 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:22:23.811 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+14:22:23.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:22:33.782 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:22:41.952 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:22:48.569 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:24:26.245 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/k4ndvexcj6ljcfqgyxsktmmahbw34vxxco6nkemv to view build report, insights, and many more debugging information all at one place!
+
+14:24:26.245 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:24:32.186 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/832bce866b416ee82c833a55cdb0348eb69fcce8
+14:24:32.186 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

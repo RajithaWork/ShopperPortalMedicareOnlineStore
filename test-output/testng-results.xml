@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T14:22:50 IST" name="Default suite" finished-at="2024-09-11T14:24:25 IST" duration-ms="95039">
+    <groups>
+      <group name="Negative">
+        <method signature="TC_001_FormClass.formpagevalidation(java.util.HashMap)[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@57bd802b]" name="formpagevalidation" class="Virtusa.MobileFramework.TC_001_FormClass"/>
+        <method signature="TC_001_FormClass.formpagevalidation(java.util.HashMap)[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@6f099cef]" name="formpagevalidation" class="Virtusa.MobileFramework.TC_001_FormClass"/>
+      </group> <!-- Negative -->
+    </groups>
+    <test started-at="2024-09-11T14:22:50 IST" name="Default test-1" finished-at="2024-09-11T14:24:24 IST" duration-ms="94430">
+      <class name="Virtusa.MobileFramework.TC_001_FormClass">
+        <test-method is-config="true" signature="configuresetup()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@6f099cef]" started-at="2024-09-11T14:22:50 IST" name="configuresetup" finished-at="2024-09-11T14:22:54 IST" duration-ms="3977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuresetup -->
+        <test-method is-config="true" signature="startApp()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@6f099cef]" started-at="2024-09-11T14:22:55 IST" name="startApp" finished-at="2024-09-11T14:23:17 IST" duration-ms="22656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="formpagevalidation(java.util.HashMap)[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@6f099cef]" started-at="2024-09-11T14:23:17 IST" name="formpagevalidation" data-provider="getData" finished-at="2024-09-11T14:24:21 IST" duration-ms="64206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Rajitha Banoth, country=India, gender=female, products=[Air Jordan 9 Retro, Nike SFB Jungle]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formpagevalidation -->
+        <test-method is-config="true" signature="endApp()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@6f099cef]" started-at="2024-09-11T14:24:22 IST" name="endApp" finished-at="2024-09-11T14:24:24 IST" duration-ms="2457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@6f099cef]" started-at="2024-09-11T14:24:24 IST" name="tearDown" finished-at="2024-09-11T14:24:24 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Virtusa.MobileFramework.TC_001_FormClass -->
+    </test> <!-- Default test-1 -->
+    <test started-at="2024-09-11T14:22:50 IST" name="Default test-0" finished-at="2024-09-11T14:24:25 IST" duration-ms="95039">
+      <class name="Virtusa.MobileFramework.TC_001_FormClass">
+        <test-method is-config="true" signature="configuresetup()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@57bd802b]" started-at="2024-09-11T14:22:50 IST" name="configuresetup" finished-at="2024-09-11T14:22:54 IST" duration-ms="3977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuresetup -->
+        <test-method is-config="true" signature="startApp()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@57bd802b]" started-at="2024-09-11T14:22:55 IST" name="startApp" finished-at="2024-09-11T14:23:19 IST" duration-ms="24301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="formpagevalidation(java.util.HashMap)[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@57bd802b]" started-at="2024-09-11T14:23:19 IST" name="formpagevalidation" data-provider="getData" finished-at="2024-09-11T14:24:22 IST" duration-ms="63382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Rajitha Banoth, country=India, gender=female, products=[Air Jordan 9 Retro, Nike SFB Jungle]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formpagevalidation -->
+        <test-method is-config="true" signature="endApp()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@57bd802b]" started-at="2024-09-11T14:24:23 IST" name="endApp" finished-at="2024-09-11T14:24:25 IST" duration-ms="2371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Virtusa.MobileFramework.TC_001_FormClass@57bd802b]" started-at="2024-09-11T14:24:25 IST" name="tearDown" finished-at="2024-09-11T14:24:25 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Virtusa.MobileFramework.TC_001_FormClass -->
+    </test> <!-- Default test-0 -->
+  </suite> <!-- Default suite -->
+</testng-results>
